@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Thu Sep 05 09:46:03 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-016c-ffa2-e740-00000de40920 
+on database directory /home/tusharsharma/tushi-work/projects/mobilefirst/MobileFirstServerConfig/shared/resources/derbyDB/WLADMIN  with class loader com.ibm.ws.classloading.internal.AppClassLoader@28bee863 
+Loaded from null
+java.vendor=BellSoft
+java.runtime.version=1.8.0_222-BellSoft-b11
+user.dir=/home/tusharsharma/tushi-work/projects/mobilefirst/MobileFirstServerConfig/servers/worklight
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Sep 05 12:00:47 IST 2019:
+Shutting down instance a816c00e-016c-ffa2-e740-00000de40920 on database directory /home/tusharsharma/tushi-work/projects/mobilefirst/MobileFirstServerConfig/shared/resources/derbyDB/WLADMIN with class loader com.ibm.ws.classloading.internal.AppClassLoader@28bee863 
+----------------------------------------------------------------
+Thu Sep 05 12:00:49 IST 2019: Shutting down Derby engine
+----------------------------------------------------------------

@@ -1,0 +1,7 @@
+Sep 05, 2019 9:46:49 AM com.worklight.core.logging.ServerInfoLog
+INFO: 
+MFP version: 7.1.0.00.20190704-0841
+Running on server: Liberty, version:8.5.5.5. Running on premise
+Running OS: Linux, version: 5.2.9-200.fc30.x86_64
+Java: BellSoft, version: 1.8.0_222
+DB name: HSQL Database Engine, version:2.2.5
